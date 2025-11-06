@@ -8,6 +8,16 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
+## 2025.11.06
+
+### Added
+
+- Designed abstract class for Invoice component
+
+### Updated
+
+- Changed design to include equals() and toString() methods in secondary
+
 ## 2025.09.19
 
 ### Added
