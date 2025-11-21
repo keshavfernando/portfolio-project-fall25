@@ -8,6 +8,13 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
+## 2025.11.21
+
+### Added
+
+- Kernel implementation Invoice1L for Invoice component
+- Convention and correspondence for Invoice kernel
+
 ## 2025.09.19
 
 ### Added
