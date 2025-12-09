@@ -8,12 +8,15 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
-## 2025.11.21
+## 2025.11.06
 
 ### Added
 
-- Kernel implementation Invoice1L for Invoice component
-- Convention and correspondence for Invoice kernel
+- Designed abstract class for Invoice component
+
+### Updated
+
+- Changed design to include equals() and toString() methods in secondary
 
 ## 2025.09.19
 
