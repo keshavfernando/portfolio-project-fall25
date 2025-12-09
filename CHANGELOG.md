@@ -8,15 +8,12 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
-## 2025.10.22
+## 2025.11.21
 
 ### Added
 
-- Designed `InvoiceKernel` and `Invoice` interfaces for the Invoice component.
-
-### Updated
-
-- Adjusted design based on proof-of-concept feedback.
+- Kernel implementation Invoice1L for Invoice component
+- Convention and correspondence for Invoice kernel
 
 ## 2025.09.19
 
